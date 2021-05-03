@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Visual_Studio_CPPSerialLeArq.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\Visual_Studio_CPPSerialLeArq.dir/objects.a @CMakeFiles\Visual_Studio_CPPSerialLeArq.dir\objects1.rsp
+C:\msys64\mingw64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\Visual_Studio_CPPSerialLeArq.dir/objects.a -Wl,--no-whole-archive -o Visual_Studio_CPPSerialLeArq.exe -Wl,--out-implib,libVisual_Studio_CPPSerialLeArq.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Visual_Studio_CPPSerialLeArq.dir\linklibs.rsp

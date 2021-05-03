@@ -1,0 +1,3 @@
+S:/Universidade/Mestrado/Visual Studio CPPSerialLeArq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+S:/Universidade/Mestrado/Visual Studio CPPSerialLeArq/cmake-build-debug/CMakeFiles/Visual_Studio_CPPSerialLeArq.dir
+S:/Universidade/Mestrado/Visual Studio CPPSerialLeArq/cmake-build-debug/CMakeFiles/edit_cache.dir
